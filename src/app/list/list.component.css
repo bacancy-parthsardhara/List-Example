@@ -1,0 +1,82 @@
+.mainclass{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.recordList,.addRecord{
+    color: gray;
+}
+.active{
+    color: black;
+}
+
+
+.tab-row {
+    float: left;
+    width: 1200px;
+}   
+.tableHeader {
+    border:  solid #708090;
+    float: left;
+    padding: 10px;
+    width: 20%;
+    font-weight: bold;
+        border-left-width:0.5px;
+        border-top-width: 0.5px;
+        border-bottom-width:0.5px; 
+        border-right-width:0px; 
+}
+.tableHeader-border{
+        border:  solid #708090;
+        float: left;
+        padding: 10px;
+        width: 20%;
+        font-weight: bold;
+            border-left-width:0.5px;
+            border-top-width: 0.5px;
+            border-bottom-width:0.5px; 
+            border-right-width:0.5px; 
+}
+.tableCell{
+        border: solid #708090;
+        float: left;
+        padding: 10px;
+        width: 20%;
+        height: 60px;
+            border-left-width:0.5px;
+            border-top-width: 0px;
+            border-bottom-width:0.5px; 
+            border-right-width:0px;
+        
+}
+.tableCell-border{
+        border: solid #708090;
+        float: left;
+        padding: 10px;
+        width: 20%;
+        height: 60px;
+            border-left-width:0.5px;
+            border-top-width: 0px;
+            border-bottom-width:0.5px; 
+            border-right-width:0.5px;
+        
+}
+
+.btns{
+    float: left;
+    margin-top: 10px;
+}
+.btnstyle:hover{
+    background-color:#b9b4b4;
+}
+
+.btnPress{
+    background-color:rgb(107, 107, 114);
+    color: white;    
+}
+
+
+.btnsubmit{
+    background-color:#b9b4b4;
+    color: white;
+}
